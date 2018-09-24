@@ -227,18 +227,52 @@ input[type=submit] {
   padding: 30px;
   margin: 0 20% 50% 0;
   background: #fff;
-  border: 1px solid #ddd;
-}
+  border: 1px solid #ddd; }
+
 
 
 nav {
   float: right;
   margin-top: 25px;
-  margin-right: 15%;
+  margin-right: 15%; }
 
-} 
+}
 
-@media only screen and (max-width: 768){
+@media only screen and (max-width:768px){
 
   
+    .main-section {
+      float: center;
+      width: 100%;
+      max-width: 960px;
+      padding: 30px;
+      background: #fff;
+      border: 1px solid #ddd; }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
