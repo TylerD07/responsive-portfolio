@@ -250,6 +250,79 @@ nav {
       border: 1px solid #ddd; }
 }
 
+@media only screen and (max-width:640px){
+
+  .main-section {
+    float: center;
+    width: 100%;
+    max-width: 960px;
+    padding: 30px;
+    background: #fff;
+    border: 1px solid #ddd;
+    align-content: center; }
+    
+  
+
+  
+    #logo {
+      float: center;
+      width: 250px;
+      height: 60px;
+      font-family:'Galada', 'cursive';
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 65px;
+      color: #fff;
+      text-align: center;
+      text-decoration: underline;
+      text-decoration-color: black;
+      background:red;
+      margin-left: 20%; }
+      
+    
+  
+  
+    .work {
+        position: flex;
+        float: center;
+        width: 274px;
+        margin: 20px 0px 25px 65px;
+        overflow: auto;
+      }
+      
+    nav {
+        float: center;
+        margin-right: 22.5%;
+          
+      }
+
+        
+    #navbar {
+          position: fixed;
+          z-index: 99;
+          width: 100%;
+          margin-bottom: 90%;
+          margin-left: 0%;
+          color: black;
+          background: silver;
+          }
+  
+    body{ 
+            margin: 0% 0% 15%; }
+
+    header{
+              padding: 0 0 0 0;
+            }
+
+    #pTitle{
+
+      margin-left: 20%;
+    }
+          
+  
+  
+    }
+
 
 
 
