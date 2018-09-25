@@ -106,7 +106,11 @@ footer {
   text-align: center;
   background:silver;
   border-top: 8px solid red;
-  height: 50px;}
+  height: 50px;
+  
+
+}
+
   
 
 
@@ -319,12 +323,15 @@ nav {
 
     #pTitle{
 
-      margin-left: 20%;
+      margin-left: 20%;}
+    
     }
-          
-  
-  
-    }
+
+    /* Sticky Footer, tried like 5 differnt ways and none would work. */
+
+ 
+
+    
 
 
 
